@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OrderManagement.Demo.DataAccess\OrderManagement.Demo.DataAccess.csproj" />
+    <ProjectReference Include="..\OrderManagement.Demo.Interfaces\OrderManagement.Demo.Interfaces.csproj" />
+    <ProjectReference Include="..\OrderManagement.Demo.Model\OrderManagement.Demo.Model.csproj" />
+  </ItemGroup>
+
+</Project>

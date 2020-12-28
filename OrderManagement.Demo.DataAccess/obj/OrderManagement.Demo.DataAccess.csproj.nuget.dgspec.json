@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.DataAccess\\OrderManagement.Demo.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.DataAccess\\OrderManagement.Demo.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.DataAccess\\OrderManagement.Demo.DataAccess.csproj",
+        "projectName": "OrderManagement.Demo.DataAccess",
+        "projectPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.DataAccess\\OrderManagement.Demo.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\tarun\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tarun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj": {
+                "projectPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj"
+              },
+              "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj": {
+                "projectPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj",
+        "projectName": "OrderManagement.Demo.Interfaces",
+        "projectPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\tarun\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tarun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj": {
+                "projectPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj",
+        "projectName": "OrderManagement.Demo.Model",
+        "projectPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj",
+        "packagesPath": "C:\\Users\\tarun\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tarun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
