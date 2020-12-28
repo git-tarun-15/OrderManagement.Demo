@@ -10,3 +10,15 @@ C:\Projects\OrderManagementDemo\OrderManagement.Demo.Interfaces\obj\Debug\netsta
 C:\Projects\OrderManagementDemo\OrderManagement.Demo.Interfaces\bin\Debug\netstandard2.0\OrderManagement.Demo.Model.dll
 C:\Projects\OrderManagementDemo\OrderManagement.Demo.Interfaces\bin\Debug\netstandard2.0\OrderManagement.Demo.Model.pdb
 C:\Projects\OrderManagementDemo\OrderManagement.Demo.Interfaces\obj\Debug\netstandard2.0\OrderManagement.Demo.Interfaces.csproj.CopyComplete
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Interfaces\bin\Debug\netstandard2.0\OrderManagement.Demo.Interfaces.deps.json
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Interfaces\bin\Debug\netstandard2.0\OrderManagement.Demo.Interfaces.dll
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Interfaces\bin\Debug\netstandard2.0\OrderManagement.Demo.Interfaces.pdb
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Interfaces\bin\Debug\netstandard2.0\OrderManagement.Demo.Model.dll
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Interfaces\bin\Debug\netstandard2.0\OrderManagement.Demo.Model.pdb
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Interfaces\obj\Debug\netstandard2.0\OrderManagement.Demo.Interfaces.csprojAssemblyReference.cache
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Interfaces\obj\Debug\netstandard2.0\OrderManagement.Demo.Interfaces.csproj.CoreCompileInputs.cache
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Interfaces\obj\Debug\netstandard2.0\OrderManagement.Demo.Interfaces.AssemblyInfoInputs.cache
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Interfaces\obj\Debug\netstandard2.0\OrderManagement.Demo.Interfaces.AssemblyInfo.cs
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Interfaces\obj\Debug\netstandard2.0\OrderManagement.Demo.Interfaces.csproj.CopyComplete
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Interfaces\obj\Debug\netstandard2.0\OrderManagement.Demo.Interfaces.dll
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Interfaces\obj\Debug\netstandard2.0\OrderManagement.Demo.Interfaces.pdb

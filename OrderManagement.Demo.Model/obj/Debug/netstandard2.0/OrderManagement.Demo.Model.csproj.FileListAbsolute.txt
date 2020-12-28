@@ -6,3 +6,11 @@ C:\Projects\OrderManagementDemo\OrderManagement.Demo.Model\obj\Debug\netstandard
 C:\Projects\OrderManagementDemo\OrderManagement.Demo.Model\obj\Debug\netstandard2.0\OrderManagement.Demo.Model.AssemblyInfo.cs
 C:\Projects\OrderManagementDemo\OrderManagement.Demo.Model\obj\Debug\netstandard2.0\OrderManagement.Demo.Model.dll
 C:\Projects\OrderManagementDemo\OrderManagement.Demo.Model\obj\Debug\netstandard2.0\OrderManagement.Demo.Model.pdb
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Model\bin\Debug\netstandard2.0\OrderManagement.Demo.Model.deps.json
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Model\bin\Debug\netstandard2.0\OrderManagement.Demo.Model.dll
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Model\bin\Debug\netstandard2.0\OrderManagement.Demo.Model.pdb
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Model\obj\Debug\netstandard2.0\OrderManagement.Demo.Model.csproj.CoreCompileInputs.cache
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Model\obj\Debug\netstandard2.0\OrderManagement.Demo.Model.AssemblyInfoInputs.cache
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Model\obj\Debug\netstandard2.0\OrderManagement.Demo.Model.AssemblyInfo.cs
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Model\obj\Debug\netstandard2.0\OrderManagement.Demo.Model.dll
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.Model\obj\Debug\netstandard2.0\OrderManagement.Demo.Model.pdb

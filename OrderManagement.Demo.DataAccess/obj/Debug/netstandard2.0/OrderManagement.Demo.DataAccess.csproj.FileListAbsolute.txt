@@ -12,3 +12,17 @@ C:\Projects\OrderManagementDemo\OrderManagement.Demo.DataAccess\bin\Debug\netsta
 C:\Projects\OrderManagementDemo\OrderManagement.Demo.DataAccess\bin\Debug\netstandard2.0\OrderManagement.Demo.Interfaces.pdb
 C:\Projects\OrderManagementDemo\OrderManagement.Demo.DataAccess\bin\Debug\netstandard2.0\OrderManagement.Demo.Model.pdb
 C:\Projects\OrderManagementDemo\OrderManagement.Demo.DataAccess\obj\Debug\netstandard2.0\OrderManagement.Demo.DataAccess.csproj.CopyComplete
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.DataAccess\bin\Debug\netstandard2.0\OrderManagement.Demo.DataAccess.deps.json
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.DataAccess\bin\Debug\netstandard2.0\OrderManagement.Demo.DataAccess.dll
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.DataAccess\bin\Debug\netstandard2.0\OrderManagement.Demo.DataAccess.pdb
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.DataAccess\bin\Debug\netstandard2.0\OrderManagement.Demo.Interfaces.dll
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.DataAccess\bin\Debug\netstandard2.0\OrderManagement.Demo.Model.dll
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.DataAccess\bin\Debug\netstandard2.0\OrderManagement.Demo.Interfaces.pdb
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.DataAccess\bin\Debug\netstandard2.0\OrderManagement.Demo.Model.pdb
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.DataAccess\obj\Debug\netstandard2.0\OrderManagement.Demo.DataAccess.csprojAssemblyReference.cache
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.DataAccess\obj\Debug\netstandard2.0\OrderManagement.Demo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.DataAccess\obj\Debug\netstandard2.0\OrderManagement.Demo.DataAccess.AssemblyInfoInputs.cache
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.DataAccess\obj\Debug\netstandard2.0\OrderManagement.Demo.DataAccess.AssemblyInfo.cs
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.DataAccess\obj\Debug\netstandard2.0\OrderManagement.Demo.DataAccess.csproj.CopyComplete
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.DataAccess\obj\Debug\netstandard2.0\OrderManagement.Demo.DataAccess.dll
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.DataAccess\obj\Debug\netstandard2.0\OrderManagement.Demo.DataAccess.pdb

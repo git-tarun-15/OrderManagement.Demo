@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Manager\\OrderManagement.Demo.Manager.csproj": {}
+    "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Manager\\OrderManagement.Demo.Manager.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.DataAccess\\OrderManagement.Demo.DataAccess.csproj": {
+    "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.DataAccess\\OrderManagement.Demo.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.DataAccess\\OrderManagement.Demo.DataAccess.csproj",
+        "projectUniqueName": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.DataAccess\\OrderManagement.Demo.DataAccess.csproj",
         "projectName": "OrderManagement.Demo.DataAccess",
-        "projectPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.DataAccess\\OrderManagement.Demo.DataAccess.csproj",
+        "projectPath": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.DataAccess\\OrderManagement.Demo.DataAccess.csproj",
         "packagesPath": "C:\\Users\\tarun\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.DataAccess\\obj\\",
+        "outputPath": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tarun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj": {
-                "projectPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj"
+              "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj": {
+                "projectPath": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj"
               },
-              "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj": {
-                "projectPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj"
+              "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj": {
+                "projectPath": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj": {
+    "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj",
+        "projectUniqueName": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj",
         "projectName": "OrderManagement.Demo.Interfaces",
-        "projectPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj",
+        "projectPath": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj",
         "packagesPath": "C:\\Users\\tarun\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Interfaces\\obj\\",
+        "outputPath": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tarun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj": {
-                "projectPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj"
+              "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj": {
+                "projectPath": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj"
               }
             }
           }
@@ -125,14 +125,14 @@
         }
       }
     },
-    "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Manager\\OrderManagement.Demo.Manager.csproj": {
+    "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Manager\\OrderManagement.Demo.Manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Manager\\OrderManagement.Demo.Manager.csproj",
+        "projectUniqueName": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Manager\\OrderManagement.Demo.Manager.csproj",
         "projectName": "OrderManagement.Demo.Manager",
-        "projectPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Manager\\OrderManagement.Demo.Manager.csproj",
+        "projectPath": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Manager\\OrderManagement.Demo.Manager.csproj",
         "packagesPath": "C:\\Users\\tarun\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Manager\\obj\\",
+        "outputPath": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Manager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tarun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,14 +148,14 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.DataAccess\\OrderManagement.Demo.DataAccess.csproj": {
-                "projectPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.DataAccess\\OrderManagement.Demo.DataAccess.csproj"
+              "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.DataAccess\\OrderManagement.Demo.DataAccess.csproj": {
+                "projectPath": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.DataAccess\\OrderManagement.Demo.DataAccess.csproj"
               },
-              "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj": {
-                "projectPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj"
+              "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj": {
+                "projectPath": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Interfaces\\OrderManagement.Demo.Interfaces.csproj"
               },
-              "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj": {
-                "projectPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj"
+              "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj": {
+                "projectPath": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj"
               }
             }
           }
@@ -194,14 +194,14 @@
         }
       }
     },
-    "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj": {
+    "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj",
+        "projectUniqueName": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj",
         "projectName": "OrderManagement.Demo.Model",
-        "projectPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj",
+        "projectPath": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Model\\OrderManagement.Demo.Model.csproj",
         "packagesPath": "C:\\Users\\tarun\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\OrderManagementDemo\\OrderManagement.Demo.Model\\obj\\",
+        "outputPath": "C:\\Projects\\Demo_Project\\OrderManagement.Demo\\OrderManagement.Demo.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tarun\\AppData\\Roaming\\NuGet\\NuGet.Config",

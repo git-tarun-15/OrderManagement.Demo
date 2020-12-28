@@ -22,3 +22,5 @@ C:\Projects\OrderManagementDemo\OrderManagement.Demo.UnitTest\bin\Debug\OrderMan
 C:\Projects\OrderManagementDemo\OrderManagement.Demo.UnitTest\bin\Debug\OrderManagement.Demo.Manager.pdb
 C:\Projects\OrderManagementDemo\OrderManagement.Demo.UnitTest\bin\Debug\Newtonsoft.Json.dll
 C:\Projects\OrderManagementDemo\OrderManagement.Demo.UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.UnitTest\obj\Debug\OrderManagement.Demo.UnitTest.dll
+C:\Projects\Demo_Project\OrderManagement.Demo\OrderManagement.Demo.UnitTest\obj\Debug\OrderManagement.Demo.UnitTest.pdb
